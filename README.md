@@ -1,7 +1,3 @@
-Voici un modèle de README complet et explicite pour l'application **Mentor Connect**. Tu pourras l'ajuster si besoin :
-
----
-
 # Mentor Connect
 
 **Mentor Connect** est une application de parrainage spécialement conçue pour les étudiants de Keyce Informatique. Elle favorise l'échange entre étudiants et mentors pour encourager le partage de connaissances et le soutien académique. Cette plateforme permet aux étudiants de trouver un mentor adapté à leurs besoins et aux mentors de guider les étudiants dans leur parcours académique et professionnel.
