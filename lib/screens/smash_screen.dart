@@ -12,7 +12,8 @@ class SmashScreen extends StatefulWidget {
   State<SmashScreen> createState() => _SmashScreenState();
 }
 
-class _SmashScreen extends State<SmashScreen> {
+
+class _SmashScreenState extends State<SmashScreen> {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.sizeOf(context);
