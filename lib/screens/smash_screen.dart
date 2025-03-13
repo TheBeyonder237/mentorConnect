@@ -12,6 +12,7 @@ class SmashScreen extends StatefulWidget {
   State<SmashScreen> createState() => _SmashScreenState();
 }
 
+
 class _SmashScreenState extends State<SmashScreen> {
   @override
   Widget build(BuildContext context) {
